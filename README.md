@@ -15,6 +15,7 @@ $ docker build -t jsc . # takes a little while :)
 ### Resources
 
 - [How to Build JavaScriptCore on Your Machine](http://constellation.github.io/blog/2016/05/02/how-to-build-javascriptcore-on-your-machine/)
+- [BuildingGtk - Webkit](https://trac.webkit.org/wiki/BuildingGtk)
 
 ---
 
